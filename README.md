@@ -3,7 +3,7 @@
  导入
  #import <CoreLocation/CoreLocation.h>
  
- iOS 9之后 需要回去用户权限才可以使用定位功能
+ iOS8 之后 需要回去用户权限才可以使用定位功能
  
 
  1. Loaction_Manager.h
